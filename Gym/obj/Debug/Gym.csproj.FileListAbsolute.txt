@@ -1,0 +1,55 @@
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\ng.Net Template1.dll.config
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\ng.Net Template1.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\ng.Net Template1.pdb
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Antlr3.Runtime.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\EntityFramework.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\EntityFramework.SqlServer.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.Owin.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.Owin.Security.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Newtonsoft.Json.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Owin.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Net.Http.Formatting.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Helpers.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Http.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Http.Owin.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Http.WebHost.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Mvc.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Optimization.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Razor.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.WebPages.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.WebPages.Razor.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\WebGrease.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Antlr3.Runtime.pdb
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\EntityFramework.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\EntityFramework.SqlServer.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.Owin.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.Owin.Security.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\Newtonsoft.Json.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Net.Http.Formatting.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Helpers.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Http.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Http.Owin.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Http.WebHost.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Mvc.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Razor.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.WebPages.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.WebPages.Razor.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\bin\System.Web.Optimization.xml
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\obj\Debug\ng.Net Template1.dll
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\obj\Debug\ng.Net Template1.pdb
+C:\Users\smart\documents\visual studio 2015\Projects\Gym\Gym\obj\Debug\Gym.csprojResolveAssemblyReference.cache
